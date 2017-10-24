@@ -2,6 +2,8 @@ export default function() {
     return [
         { title : 'Javascript'},
         { title : 'Java'},
-        { title : 'Hello'}
+        { title : 'C#'},
+        { title : 'Goggle Go'},
+        { title : 'Python'}
     ]
 }
