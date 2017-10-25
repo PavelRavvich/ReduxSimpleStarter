@@ -5,5 +5,5 @@ export default function() {
         { title : 'C#'},
         { title : 'Goggle Go'},
         { title : 'Python'}
-    ]
+    ];
 }
